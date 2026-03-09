@@ -1,4 +1,4 @@
-# C# .NET 6 Projects
+# C# .NET Framework 4.8 Projects
 
 This repository contains five C# projects covering programming concepts, object-oriented design, console applications, reusable frameworks, and Windows Forms development.
 
