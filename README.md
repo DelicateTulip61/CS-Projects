@@ -1,2 +1,2 @@
-# C-Projects
+# CS-Projects
 My amazing C# projects
